@@ -48,13 +48,13 @@ void loop() {
     digitalWrite(RightMotor2,LOW);
  }
 
-/*//Stop
+//Stop
  if (analogRead(sensor3)<= 500 & analogRead(sensor1)<= 500 & analogRead(sensor2)<= 500)
  {  digitalWrite (LeftMotor1,LOW);
     digitalWrite(LeftMotor2,LOW);                       
     digitalWrite (RightMotor1,LOW);
     digitalWrite(RightMotor2,LOW);
  }
- */
+ 
  
  }
